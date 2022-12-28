@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
 
         ((TextView)findViewById(R.id.sample_text)).setText("Native 未运行");
         StartProgress();
-        UpdateProgress(20);
     }
 
     /**
