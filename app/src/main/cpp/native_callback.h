@@ -1,0 +1,14 @@
+//
+// Created by 王锐超 on 2022/12/28.
+//
+
+#ifndef TESTJNICALLBACK2_NATIVE_CALLBACK_H
+#define TESTJNICALLBACK2_NATIVE_CALLBACK_H
+
+
+class native_callback {
+
+};
+
+
+#endif //TESTJNICALLBACK2_NATIVE_CALLBACK_H
